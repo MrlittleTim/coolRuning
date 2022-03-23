@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\dev\天天酷跑\天天酷跑\main.cpp(203,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\dev\天天酷跑\天天酷跑\main.cpp(333,66): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  tools.cpp
+C:\dev\天天酷跑\天天酷跑\tools.cpp(17,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\dev\天天酷跑\天天酷跑\tools.cpp(175,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\dev\天天酷跑\天天酷跑\tools.cpp(175,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\dev\天天酷跑\天天酷跑\tools.cpp(175,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\dev\天天酷跑\天天酷跑\tools.cpp(175,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  天天酷跑.vcxproj -> C:\dev\天天酷跑\x64\Release\天天酷跑.exe

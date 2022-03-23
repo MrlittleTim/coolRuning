@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\dev\天天酷跑\天天酷跑\main.cpp(203,15): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\dev\天天酷跑\天天酷跑\main.cpp(333,66): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  天天酷跑.vcxproj -> C:\dev\天天酷跑\x64\Debug\天天酷跑.exe

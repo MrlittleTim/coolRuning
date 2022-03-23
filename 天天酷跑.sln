@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "天天酷跑", "天天酷跑\天天酷跑.vcxproj", "{C3DD2757-BE06-4D99-83B1-B312084F6903}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "天天酷跑Setup1", "天天酷跑Setup1\天天酷跑Setup1.vdproj", "{7EDF29A6-FAB7-4271-B32C-F3F7F9D96599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Debug|x64.ActiveCfg = Debug|x64
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Debug|x64.Build.0 = Debug|x64
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Debug|x86.Build.0 = Debug|Win32
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Release|x64.ActiveCfg = Release|x64
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Release|x64.Build.0 = Release|x64
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Release|x86.ActiveCfg = Release|Win32
+		{C3DD2757-BE06-4D99-83B1-B312084F6903}.Release|x86.Build.0 = Release|Win32
+		{7EDF29A6-FAB7-4271-B32C-F3F7F9D96599}.Debug|x64.ActiveCfg = Debug
+		{7EDF29A6-FAB7-4271-B32C-F3F7F9D96599}.Debug|x86.ActiveCfg = Debug
+		{7EDF29A6-FAB7-4271-B32C-F3F7F9D96599}.Release|x64.ActiveCfg = Release
+		{7EDF29A6-FAB7-4271-B32C-F3F7F9D96599}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40734C05-69C8-48A4-9009-2922173BC47F}
+	EndGlobalSection
+EndGlobal
